@@ -1,2 +1,2 @@
 Manga Comic Corner
-Please vote
+  <p> Please vote
