@@ -1,0 +1,2 @@
+# MANGA-COMIC-
+Vote! 
